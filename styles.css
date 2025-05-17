@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
 #yellow {
     background-color: yellow;
     border: 3px solid green;
